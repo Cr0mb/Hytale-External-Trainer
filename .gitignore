@@ -1,0 +1,18 @@
+build/
+re/*
+!re/stub.asm
+agent/classes/
+*.cfg
+*.log
+dist/
+.vs/
+*.user
+CMakeSettings.json
+*.exe
+*.jar
+stats_overlay.txt
+*_cache.txt
+client_layout.txt
+
+# forum post draft, regenerate from README.md
+README.bb
