@@ -14,6 +14,10 @@ A single-file trainer for **Hytale single-player**, with an ImGui overlay menu a
 > and every feature is unavailable. This is the design, not a fault — see
 > [Limitations](#limitations). Nothing is written to the game client and no code runs inside it.
 
+
+<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/b9570c2b-4eed-4afb-8afb-e5f86df7668c" />
+
+
 ---
 
 ## Contents
@@ -362,11 +366,6 @@ host's machine.
 **Version-specific.** Offsets and the agent are built against server `0.7.0`. A game update can
 require rediscovery; the camera and client-entity layouts are found at run time and cached, but
 the agent is compiled against the server jar.
-
-## License
-
-No license has been chosen yet, so default copyright applies: all rights reserved. Add a
-`LICENSE` file before publishing if you intend others to reuse the code.
 
 ---
 
